@@ -7,7 +7,7 @@ const normalColorReplacements = {
     "#00d5f2": "#00a6d1",  // jane/nannasprite
     "#f2a400": "#f28e00",  // dirk/davesprite
     "#1f9400": "#1d8900",  // jake/jadesprite (mostly for better contrast against jade/erisol's new color)
-    "#ff6ff2": "#f141ef",  // roxy
+    "#ff6ff2": "#f141ef",  // roxy (matches Jaspersprite's color)
     "#2ed73a": "#2bca36",  // post-domination caliborn (also felt names i guess lol)
 }
 
