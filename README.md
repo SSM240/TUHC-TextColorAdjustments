@@ -10,7 +10,7 @@ Generally, this mod:
     - also lightens some of the dark colors in Scratch mode for the same purpose
 - brightens some of the particularly dark colors to make them more distinct from one another, so conversations between the highbloods are less painful to read
 
-For a full list of changes, [the mod's code](/ssm24-textcolor.js) has all the replacements cleanly listed at the top of the file.
+For a full list of changes, [the mod's code](/ssm24-textcolor.js) has all the replacements listed at the top of the file.
 
 Other notes:
 - This mod assumes you're using the default theme without any overrides. The changes may not be as much of an improvement with other themes.
@@ -20,4 +20,4 @@ Other notes:
 
 ## Please let me know if I've overlooked anything
 
-I haven't tested this mod thoroughly (other than to make sure the changes I made are functional), so it's possible that I've overlooked something somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
+This mod relies on a fairly crude find & replace for hex color codes, and I haven't tested it thoroughly other than to make sure my intended changes are functional. So it's possible that I've overlooked something somewhere, or that there are unintended side effects somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
