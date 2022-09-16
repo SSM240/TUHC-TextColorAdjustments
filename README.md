@@ -1,7 +1,7 @@
 # Text Color Adjustments
 A mod for [The Unofficial Homestuck Collection](https://bambosh.github.io/unofficial-homestuck-collection/) that adjusts certain characters' text colors for easier reading against the default themes.
 
-**Please let me know if I've missed something.** I made this mod in a few hours and it relies on fairly crude find & replace of hex color codes, and I haven't tested it thoroughly. So it's possible that I've overlooked something somewhere, or that there are unintended side effects somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
+**Please let me know if I've missed something.** I made this mod in a few hours and it relies on fairly crude find & replace of hex color codes, and I haven't tested it thoroughly, so I may have missed some important changes or unintended side effects. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
 
 ## Installation
 [Download the mod file](https://raw.githubusercontent.com/SSM240/TUHC-TextColorAdjustments/main/ssm24-textcolor.js) (if this link doesn't begin a download, simply press Ctrl+S, or right click -> `Save As`) and place it in your mods directory. Then simply enable it within the program.
@@ -16,7 +16,7 @@ Note that this mod:
 - **only changes text data,** and makes no attempt to change colors contained in images or Flashes
 - **assumes you're using the default theme without overrides.** The changes may not look as good if you're using themes that significantly change the background color.
 
-### :warning: The rest of this readme contains minor spoilers, so stop here if you're a new reader and don't want spoilers.
+### :warning: The rest of this readme contains minor Homestuck spoilers, so stop here if you're a new reader and don't want spoilers.
 
 ---
 
