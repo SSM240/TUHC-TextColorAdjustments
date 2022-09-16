@@ -1,23 +1,27 @@
 # Text Color Adjustments
-A mod for [The Unofficial Homestuck Collection](https://bambosh.github.io/unofficial-homestuck-collection/) that adjusts certain characters' text colors for easier reading.
+A mod for [The Unofficial Homestuck Collection](https://bambosh.github.io/unofficial-homestuck-collection/) that adjusts certain characters' text colors for easier reading against the default themes.
+
+**Please let me know if I've missed something.** I made this mod in a few hours and it relies on fairly crude find & replace of hex color codes, and I haven't tested it thoroughly. So it's possible that I've overlooked something somewhere, or that there are unintended side effects somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
 
 ## Installation
 [Download the mod file](https://raw.githubusercontent.com/SSM240/TUHC-TextColorAdjustments/main/ssm24-textcolor.js) (if this link doesn't begin a download, simply press Ctrl+S, or right click -> `Save As`) and place it in your mods directory. Then simply enable it within the program.
 
 ## Details
 Generally, this mod:
-- darkens some of the lighter-colored text to make it less straining to read against the default background
-    - also lightens some of the dark colors in Scratch mode for the same purpose
-- brightens some of the particularly dark colors to make them more distinct from one another, so conversations between the highbloods are less painful to read
+- darkens some of the lighter-colored text to make it less straining to read against the default light background
+    - lightens some of the dark colors in sections with a dark background for the same purpose
+- brightens some of the particularly dark colors to make them more distinct from one another
+
+Note that this mod:
+- **only changes text data,** and makes no attempt to change colors contained in images or Flashes
+- **assumes you're using the default theme without overrides.** The changes may not look as good if you're using themes that significantly change the background color.
+
+### :warning: The rest of this readme contains minor spoilers, so stop here if you're a new reader and don't want spoilers.
+
+---
 
 For a full list of changes, [the mod's code](/ssm24-textcolor.js) has all the replacements listed at the top of the file.
 
 Other notes:
-- This mod assumes you're using the default theme without any overrides. The changes may not be as much of an improvement with other themes.
-- This mod only changes text data, and makes no attempt to change anything in panels, inline text images, or Flashes.
-    - As such, it also disables itself during Trickster Mode, since that section uses a mix of normal text and images. (And also I feel like trying to make things more legible during that section loses part of the experience :p)
 - Doc Scratch's text color is unchanged since his text being near-invisible has story significance.
-
-## Please let me know if I've overlooked anything
-
-This mod relies on a fairly crude find & replace for hex color codes, and I haven't tested it thoroughly other than to make sure my intended changes are functional. So it's possible that I've overlooked something somewhere, or that there are unintended side effects somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
+- This mod disables itself during Trickster Mode, since that section uses a mix of normal text and images so any changes would result in inconsistency. (And also I feel like trying to make things more legible during that section loses part of the experience :p)
