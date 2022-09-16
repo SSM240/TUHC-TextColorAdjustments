@@ -16,7 +16,7 @@ const scratchColorReplacements = {
     "#e00707": "#e01f1f",  // dave
     "#626262": "#707070",  // karkat
     "#005682": "#00679b",  // vriska (for better contrast against john's color)
-    "#4200b0": "#541cb0",  // gamzee
+    "#4200b0": "#642fba",  // gamzee
     // below are for consistency
     "#4ac925": "#2cc200",  // jade
     "#00d5f2": "#00a6d1",  // nannasprite
