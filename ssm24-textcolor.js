@@ -12,7 +12,7 @@ const normalColorReplacements = {
 }
 
 const scratchColorReplacements = {
-    "#0715cd": "#1d29cf",  // john
+    "#0715cd": "#1d3ccf",  // john
     "#e00707": "#e01f1f",  // dave
     "#626262": "#707070",  // karkat
     "#4200b0": "#541cb0",  // gamzee
