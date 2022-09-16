@@ -27,7 +27,7 @@ module.exports = {
     title: "Text color adjustments",
     summary: "Adjustments to characters' text colors for easier reading",
     author: "SSM24",
-    modVersion: 1.01,
+    modVersion: 1.02,
 
     description: 
         `<p>This mod adjusts character text colors to be easier on the eyes against the default backgrounds, 
