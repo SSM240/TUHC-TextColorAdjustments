@@ -18,4 +18,6 @@ Other notes:
     - As such, it also disables itself during Trickster Mode, since that section uses a mix of normal text and images. (And also I feel like trying to make things more legible during that section loses part of the experience :p)
 - Doc Scratch's text color is unchanged since his text being near-invisible is also part of the experience.
 
-Do note that I haven't tested this mod thoroughly other than to make sure that the changes work, so it's possible there will be some unintended side effects. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
+## Please let me know if I've overlooked anything
+
+I haven't tested this mod thoroughly (other than to make sure the changes I made are functional), so it's possible that I've overlooked something somewhere. Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (SSM24#0079) if you have any feedback.
