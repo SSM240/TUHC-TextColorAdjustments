@@ -16,7 +16,7 @@ Other notes:
 - This mod assumes you're using the default theme without any overrides. The changes may not be as much of an improvement with other themes.
 - This mod only changes text data, and makes no attempt to change anything in panels, inline text images, or Flashes.
     - As such, it also disables itself during Trickster Mode, since that section uses a mix of normal text and images. (And also I feel like trying to make things more legible during that section loses part of the experience :p)
-- Doc Scratch's text color is unchanged since his text being near-invisible is also part of the experience.
+- Doc Scratch's text color is unchanged since his text being near-invisible has story significance.
 
 ## Please let me know if I've overlooked anything
 
