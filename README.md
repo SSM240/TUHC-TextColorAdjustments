@@ -23,7 +23,7 @@ Note that this mod:
 For a full list of changes, [the mod's code](/ssm24-textcolor.js) has all the replacements listed at the top of the file.
 
 Other notes:
-- Doc Scratch's text color is unchanged since his text being near-invisible has story significance.
+- Doc Scratch's text color is unchanged since his text being near-invisible has story significance. (And also I don't think blanket replacing every instance of `#ffffff` in the text would be a good idea.)
 - This mod disables itself during Trickster Mode, since that section uses a mix of normal text and images so any changes would result in inconsistency. (And also I feel like trying to make things more legible during that section loses part of the experience :p)
 
 ## Examples
