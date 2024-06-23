@@ -9,7 +9,7 @@ const normalColorReplacements = {
     "#1f9400": "#1d8900",  // jake/jadesprite (mostly for better contrast against jade/erisol's new color)
     "#ff6ff2": "#f141ef",  // roxy (matches Jaspersprite's color)
     "#2ed73a": "#2bca36",  // post-domination caliborn (also felt names i guess lol)
-}
+};
 
 const scratchColorReplacements = {
     "#0715cd": "#1d3ccf",  // john
@@ -21,7 +21,7 @@ const scratchColorReplacements = {
     "#4ac925": "#2cc200",  // jade
     "#00d5f2": "#00a6d1",  // nannasprite
     "#f2a400": "#f28e00",  // davesprite
-}
+};
 
 module.exports = {
     title: "Text color adjustments",
@@ -54,13 +54,13 @@ module.exports = {
                         replaced = true;
                         const origColorRegExp = new RegExp(origColor, 'g');
                         const newColor = colorDict[origColor];
-                        content = content.replace(origColorRegExp, newColor)
+                        content = content.replace(origColorRegExp, newColor);
                     }
                 }
                 if (replaced) {
-                    archive.mspa.story[pageString].content = content
+                    archive.mspa.story[pageString].content = content;
                 }
             }
         }
     }
-}
+};
