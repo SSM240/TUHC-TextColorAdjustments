@@ -49,6 +49,7 @@ module.exports = {
                 let content = archive.mspa.story[pageString].content;
                 let replaced = false;
                 // check if page includes each color
+                // this feels really inefficient but i benchmarked it and it's fine
                 for (let origColor in colorDict) {
                     if (content.includes(origColor)) {
                         replaced = true;
