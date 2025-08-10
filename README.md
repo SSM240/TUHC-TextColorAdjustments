@@ -1,5 +1,5 @@
 # Text Color Adjustments
-A mod for [The Unofficial Homestuck Collection](https://homestuck.github.io/) that adjusts certain characters' text colors for easier reading against the default themes.
+A mod for [The Unofficial Homestuck Collection](https://github.com/GiovanH/unofficial-homestuck-collection) that adjusts certain characters' text colors for easier reading against the default themes.
 
 Please [open an issue](https://github.com/SSM240/TUHC-TextColorAdjustments/issues) or contact me on Discord (`ssm24`) if you have any feedback.
 
