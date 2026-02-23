@@ -14,7 +14,7 @@ Generally, this mod:
 
 Note that this mod:
 - **only changes text data,** and makes no attempt to change colors contained in images or Flashes
-- **assumes you're using the default theme without overrides.** The changes may not look as good if you're using themes that significantly change the background color.
+- **assumes you're using the default theme without overrides.** The changes may not look as good if you're using themes that significantly change the background color, such as dark mode.
 
 ### :warning: The rest of this readme contains minor Homestuck spoilers, so stop here if you're a new reader and don't want spoilers.
 
